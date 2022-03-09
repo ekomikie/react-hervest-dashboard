@@ -1,0 +1,48 @@
+.plans-container {
+  background-color: #e5e5e5;
+
+  @media screen and (min-width: 760px) {
+    padding-left: 3%;
+  }
+  @media screen and (min-width: 1024px) {
+    width: 80%;
+    margin-left: 20%;
+    padding-bottom: 3rem;
+  }
+  .plans-header {
+    padding-top: 0.5rem;
+
+    @media screen and (min-width: 1024px) {
+      padding: 2rem 0;
+    }
+    p,
+    h2 {
+      padding: 0.5rem 0;
+      text-align: center;
+      color: #7c7f93;
+      @media screen and (min-width: 1024px) {
+        text-align: left;
+      }
+    }
+
+    p {
+      font-size: 1.2rem;
+      padding-bottom: 2.5rem;
+      @media screen and (min-width: 1024px) {
+        font-size: 1.8rem;
+      }
+    }
+
+    h2 {
+      @media screen and (min-width: 1024px) {
+        font-size: 2rem;
+      }
+    }
+  }
+  .carousel-container {
+    padding-left: 6%;
+    @media screen and (min-width: 728px) {
+      padding-left: 0%;
+    }
+  }
+}

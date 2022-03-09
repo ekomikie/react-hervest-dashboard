@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.item-card {
+  border-radius: 1rem;
+  padding: 2rem 1.5rem;
+  width: 94%;
+  background-color: #fff;
+  .item-box {
+    display: flex;
+    .item-icon-box {
+      border-radius: 50%;
+      background-color: #c2eff0;
+      display: flex;
+      height: 4rem;
+      width: 4rem;
+
+      padding: 1.2rem;
+      img {
+        min-width: 100%;
+      }
+    }
+    .item-text {
+      padding: 1.5rem;
+    }
+  }
+  .amount-figure {
+    padding: 1rem 0;
+  }
+
+  .grey-line {
+    width: 100%;
+    background-color: #f2f1f3;
+    height: 6px;
+    .green-line {
+      height: 100%;
+      width: 40%;
+      background-color: #265859;
+    }
+  }
+}
