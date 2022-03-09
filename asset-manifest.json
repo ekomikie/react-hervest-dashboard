@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-hervest-dashboard/static/css/main.7a8941ae.css",
+    "main.js": "/react-hervest-dashboard/static/js/main.8c25e8e8.js",
+    "static/media/hervest-cardpic-2.svg": "/react-hervest-dashboard/static/media/hervest-cardpic-2.03dfaae7c2181ffb1aaa7c977bdaa63e.svg",
+    "static/media/user-pic.svg": "/react-hervest-dashboard/static/media/user-pic.6aec4138d7b46daa22626813b9bda3f8.svg",
+    "static/media/Hervest-cardpic-3.svg": "/react-hervest-dashboard/static/media/Hervest-cardpic-3.319386d723e6f6600e5bbe17f1715e2b.svg",
+    "static/media/hervest-cardpic-1.svg": "/react-hervest-dashboard/static/media/hervest-cardpic-1.7fe30740d6432b97b6471c4d7a15f1dc.svg",
+    "static/media/HerVest.svg": "/react-hervest-dashboard/static/media/HerVest.6841870a33535205d268a8fa99d843d8.svg",
+    "static/media/piggy-bank.svg": "/react-hervest-dashboard/static/media/piggy-bank.7b0f19a3c72072792ae0e44a2520e5b1.svg",
+    "static/media/slick.svg": "/react-hervest-dashboard/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-hervest-dashboard/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-hervest-dashboard/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-hervest-dashboard/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/faint-arc.svg": "/react-hervest-dashboard/static/media/faint-arc.48903a48b980ceef58a628cb8bd24145.svg",
+    "index.html": "/react-hervest-dashboard/index.html",
+    "static/media/arch.svg": "/react-hervest-dashboard/static/media/arch.cc36322b8768c06eeab7aceabce94abc.svg",
+    "static/media/small-arc.svg": "/react-hervest-dashboard/static/media/small-arc.cbde01115723b74e2a10bf4012dc825e.svg",
+    "main.7a8941ae.css.map": "/react-hervest-dashboard/static/css/main.7a8941ae.css.map",
+    "main.8c25e8e8.js.map": "/react-hervest-dashboard/static/js/main.8c25e8e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a8941ae.css",
+    "static/js/main.8c25e8e8.js"
+  ]
+}
